@@ -1,0 +1,327 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.s1 {
+    background-image: url('asset/asset\ 3.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+
+.tital {
+    color: #b13c3c;
+}
+
+.main {
+    padding-top: 97px;
+    margin-left: 152px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 500 !important;
+
+}
+
+p span {
+    font-size: 26px;
+}
+
+p {
+    color: #7d7d7da8;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.font {
+    font-size: 26px;
+}
+
+/* .s2{
+    background-image: url(asset\ 1.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: top right;
+    position: relative;
+    margin-top: 0%;
+    padding-top: 0%;
+} */
+.btn {
+    margin-left: 640px;
+    margin-top: 380px;
+}
+
+.btn button {
+    padding: 15px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: #b13c3c;
+    border: 2px solid #b13c3c;
+    background: transparent;
+}
+
+.btn button:hover {
+    background-color: #b13c3c;
+    color: aliceblue;
+    outline: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.s2 {
+    background-image: url('asset/asset\ 4.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.por{
+    background-color: aliceblue;
+    font-family: "Source Sans Pro", sans-serif;
+    height: 35px;
+    text-align: center;
+    padding: 6px;
+    padding-right: 85%;
+    background-attachment: fixed;
+    position: relative;
+}
+.main2{
+    color: black;
+}
+.copy{
+    text-align:right;
+    position: absolute;
+    padding-left: 1200px;
+    font-size: 15px;
+}
+.awd img {
+    position: absolute;
+    top: 2%;
+    left: 94%;
+}
+
+.vol {
+    margin-left: 30px;
+    margin-top: 40px;
+    position: fixed;
+    z-index: 1;
+}
+
+.vol img {
+    background-color: rgba(91, 91, 91, 0.492);
+    padding: 5px;
+}
+
+.vol img:hover {
+    background-color: black;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.font1{
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: center;
+    width: 40%;
+    margin: 50px;
+    margin-left:450px;
+    position: absolute;
+    
+}
+h3{
+    color: aliceblue;
+    font-size: 29.3333px;
+}
+.para1{
+    color: aliceblue;
+    font-size: 16px;
+}
+.hr1 {
+    width: 20px;
+    size: 1px;
+    margin: 20px;
+    margin-left: 300px;
+}
+.font2{
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: center;
+    width: 40%;
+    margin: 50px;
+    margin-left:450px;
+    position: absolute;
+}
+.hed{
+    color: rgb(7, 7, 8);
+    font-size: 29.3333px;
+}
+.para2{
+    color: rgb(8, 9, 9);
+    font-size: 16px;
+}
+.hr2 {
+    width: 20px;
+    size: 1px;
+    margin: 20px;
+    margin-left: 300px;
+}
+.twit{
+    position: fixed;
+    z-index: 1;
+    margin-left: 90%;
+    margin-top: 2%;
+}
+.twit img{
+    height: 50px;
+    background-color: rgb(240, 248, 255);
+    padding: 10px;
+}
+.s3 {
+    background-image: url('asset/asset\ 5.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s4 {
+    background-image: url('asset/asset\ 6.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s5 {
+    background-image: url('asset/asset\ 7.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s6 {
+    background-image: url('asset/asset\ 8.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s7 {
+    background-image: url('asset/asset\ 9.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s8 {
+    background-image: url('asset/asset\ 10.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s9 {
+    background-image: url('asset/asset\ 11.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s10 {
+    background-image: url('asset/asset\ 12.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s11 {
+    background-image: url('asset/asset\ 13.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s12 {
+    background-image: url('asset/asset\ 14.jpeg');
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.s13{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.last{
+    font-family: "Source Sans Pro", sans-serif;
+    text-align: center;
+    padding-top: 200px;
+}
+.last1{
+    color: aliceblue;
+    font-size: 13px;
+    padding: 10px;
+}
+.last2{
+    color: aliceblue;
+    font-size: 40px;
+}
+.last2:hover{
+    color: #b13c3c;
+    cursor: pointer;
+}
+.last3{
+    color: aliceblue;
+    font-size: 15px;
+    padding-top: 50px;
+}
+.last4{
+    color: aliceblue;
+    font-size: 40px;
+    padding-top: 10px;
+}
+.last4:hover{
+    color: #b13c3c;
+    cursor: pointer;
+}
+.last5{
+    color: aliceblue;
+    font-size: 16px;
+    padding-top: 90px;
+}
+.last6{
+    color: aliceblue;
+    font-size: 16px;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+}
